@@ -1,4 +1,4 @@
-### Oie! Eu sou a Chaienne Cristina
+### Oie! Eu sou a Chaienne :)
 
 - 🔭 Hoje trabalho como Trainne de Testes/QA
 - 🌱 Estudando Testes Automatizados com CYPRESS
