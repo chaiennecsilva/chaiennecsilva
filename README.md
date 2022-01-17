@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Chaienne Cristina
 
-- 🔭 Hoje trabalho como Analista de suporte
-- 🌱 Estudando Programação - FullStack - Hiring Coders #2 
+- 🔭 Hoje trabalho como Trainne de Testes/QA
+- 🌱 Estudando Testes Automatizados com CYPRESS
 - 😄 Pronouns: ela/dela
  <div>
   <a href="https://github.com/chaiennecsilva">
