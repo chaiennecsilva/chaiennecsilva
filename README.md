@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Chaienne :)
 
-- 🔭 Hoje trabalho como Trainne de Testes/QA
-- 🌱 Estudando Testes Automatizados com CYPRESS
+- 🔭 Hoje trabalho como Analista de teste/QA
+- 🌱 Participando Programa de Testes e Qualidade de Software - PTQS TURMA 7
 - 😄 Pronouns: ela/dela
  <div>
   <a href="https://github.com/chaiennecsilva">
