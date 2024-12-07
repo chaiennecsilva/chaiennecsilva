@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou Chai 👋
+# Olá! Sou Chaienne Silva 👋
 
-👩‍💻 Analista de Testes/QA.
+👩‍💻 Olá! Analista de Testes/QA 👩‍💻
 
-💜 Apaixonada por qualidade, mentoro minha equipe e promovo a cultura de QA. Estou comprometida em garantir excelência em nossos projetos.
+💜Sou apaixonada por qualidade de software e pela cultura de QA, dedicando-me a mentorar minha equipe e promover práticas que garantam a excelência em nossos projetos. Meu compromisso é assegurar que nossos produtos atendam aos mais altos padrões de qualidade.
 
 🚀 Atualmente, estou entusiasmada em aprimorar minhas habilidades no programa de formação da Qa.Coders Academy (TQA - Quality Assurance - T12/13).
 
