@@ -4,9 +4,16 @@
 
 💜 Apaixonada por qualidade, mentoro minha equipe e promovo a cultura de QA. Estou comprometida em garantir excelência em nossos projetos.
 
-🚀 Atualmente, estou entusiasmada em aprimorar minhas habilidades no programa de formação da Qa.Coders Academy (TQA - Quality Assurance - T12).
+🚀 Atualmente, estou entusiasmada em aprimorar minhas habilidades no programa de formação da Qa.Coders Academy (TQA - Quality Assurance - T12/13).
 
-🤖 Iniciando minha jornada na automação de testes! 
+🤖 No ambiente prático do Qa.Coders Academy, estou aplicando teorias em projetos reais e contribuindo para a entrega de soluções de qualidade voltados para automação de testes:
+       Quality Assurance: Qualidade de Software, Cultura da Qualidade, Assessment, Indicadores de Qualidade, Metodologia Ágil.
+       Gestão de Projetos: ALM Azure DevOps e Gestão de Teste.
+       Ferramentas de Teste: MongoDB, SQL, Teste de API com Postman, Versionamento de Código com Git e GitHub.
+       Automação WEB: Lógica de Programação e Automação WEB com Cypress.
+       DevOps: Configuração de CI para execução de testes automatizados.
+
+Vamos nos conectar? Adicione-me para trocarmos ideias sobre QA, inovação e automação de testes! 😀
 
 
  <div>
