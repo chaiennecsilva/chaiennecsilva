@@ -1,19 +1,19 @@
 # Olá! Sou Chaienne Silva 👋
 
-👩‍💻 Olá! Analista de Testes/QA 👩‍💻
+🚀 Garantindo qualidade e eficiência no desenvolvimento de software, com foco em testes manuais e evolução para automação!
 
-💜Sou apaixonada por qualidade de software e pela cultura de QA, dedicando-me a mentorar minha equipe e promover práticas que garantam a excelência em nossos projetos. Meu compromisso é assegurar que nossos produtos atendam aos mais altos padrões de qualidade.
+Atuo atualmente como Analista de Testes no projeto Bradesco Seguros, com mais de 3 anos de experiência em QA. Tenho sólida atuação em testes manuais (funcionais, regressivos, de integração e de APIs) e estou em transição para automação, desenvolvendo habilidades em Cypress, CI/CD, além de aprimorar práticas com Postman e JavaScript.
 
-🚀 Atualmente, estou entusiasmada em aprimorar minhas habilidades no programa de formação da Qa.Coders Academy (TQA - Quality Assurance - T12/13).
+💡 Destaques do meu perfil:
+✔ Atuação em times ágeis (Scrum/Kanban), utilizando ferramentas como JIRA, Octane, Azure DevOps e Git.
+✔ Experiência em análise de cenários de teste, execução prática e registro de defeitos, sempre com foco em entregas de alta qualidade.
+✔ Participação ativa em programas de formação em QA, com ênfase em automação de testes e integração de pipelines CI/CD.
+✔ Boa comunicação, atenção aos detalhes e mentalidade voltada para a melhoria contínua.
 
-🤖 No ambiente prático do Qa.Coders Academy, estou aplicando teorias em projetos reais e contribuindo para a entrega de soluções de qualidade voltados para automação de testes:
-       Quality Assurance: Qualidade de Software, Cultura da Qualidade, Assessment, Indicadores de Qualidade, Metodologia Ágil.
-       Gestão de Projetos: ALM Azure DevOps e Gestão de Teste.
-       Ferramentas de Teste: MongoDB, SQL, Teste de API com Postman, Versionamento de Código com Git e GitHub.
-       Automação WEB: Lógica de Programação e Automação WEB com Cypress.
-       DevOps: Configuração de CI para execução de testes automatizados.
+📌 Atualmente em formação para a certificação ISTQB Foundation Level.
+📌 Aberta a novas oportunidades em Qualidade de Software e Automação de Testes — vamos nos conectar?
 
-Vamos nos conectar? Adicione-me para trocarmos ideias sobre QA, inovação e automação de testes! 😀
+🔗 [Meus projetos no GitHub](https://github.com/chaiennecsilva)
 
 
  <div>
